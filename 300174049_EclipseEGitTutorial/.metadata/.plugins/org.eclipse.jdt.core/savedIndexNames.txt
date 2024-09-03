@@ -1,0 +1,16 @@
+INDEX VERSION 1.131+D:\Users\Hunter Klassen\eclipse-workspace\300174049_EclipseEGitTutorial\.metadata\.plugins\org.eclipse.jdt.core
+31374726.index
+686139397.index
+3815892226.index
+1453545392.index
+2970420559.index
+3916134341.index
+3285906132.index
+3312592039.index
+83688295.index
+1888031172.index
+3226493510.index
+2970078724.index
+731176841.index
+587152066.index
+3477156273.index

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;Lab6_300174049/src/week6.tree&apos;&#x0D;&#x0A;- Original project: &apos;Lab6_300174049&apos;&#x0D;&#x0A;- Destination element: &apos;Lab6_300174049/src/week6.tree&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     BinTreeNode.java&#x0D;&#x0A;     BinaryTreeTester.java&#x0D;&#x0A;     BinaryTree.java&#x0D;&#x0A;- Update references to refactored element" description="Move files" destination="/src&lt;week6.tree" element1="BinTreeNode.java" element2="BinaryTreeTester.java" element3="BinaryTree.java" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1603926180876" units="0" version="1.0"/>
+</session>
